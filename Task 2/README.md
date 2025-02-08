@@ -205,3 +205,6 @@ python manage.py runserver
 The API will be accessible at:
 - `http://127.0.0.1:8000/spare-parts/`
 
+
+Public Postman Collection:
+- `https://www.postman.com/descent-module-pilot-38669739/my-workspace/request/83xdb97/delete-a-spare-part`
