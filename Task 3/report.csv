@@ -1,0 +1,103 @@
+Average Price by Manufacturer
+manufacturer,average_price
+BMW,512.6611328527291
+Chevrolet,526.4917991631798
+Ford,508.84854341736695
+Honda,514.2351909892262
+Hyundai,517.5357884028484
+Kia,510.7666498993964
+Mercedes,496.98597826086956
+Nissan,500.82002143622725
+Toyota,510.05454280155635
+Volkswagen,523.9635790494665
+
+Average Price by Category
+category,average_price
+Body,518.0215407854985
+Brakes,501.4884323432343
+Cooling,509.406787732042
+Electrical,509.93156664068584
+Engine,515.8731218274112
+Exhaust,510.682
+Suspension,513.8492121684867
+Transmission,518.0585930047695
+
+Count of parts grouped by car_model
+car_model,spare_part_count
+3 Series,182
+5 Series,207
+7 Series,198
+Accord,202
+Altima,180
+Atlas,200
+C-Class,206
+CR-V,214
+Camaro,201
+Camry,225
+Civic,210
+Corolla,207
+E-Class,205
+Elantra,215
+Equinox,204
+Escape,230
+Explorer,215
+F-150,220
+Fit,191
+Focus,200
+Forte,211
+Frontier,171
+GLC,197
+GLE,193
+Golf,221
+Highlander,199
+Jetta,209
+Malibu,185
+Maxima,200
+Mustang,206
+Optima,186
+Palisade,203
+Passat,191
+Pilot,204
+RAV4,210
+Rogue,186
+S-Class,211
+Santa Fe,195
+Sentra,196
+Silverado,189
+Sonata,196
+Sorento,194
+Sportage,203
+Tacoma,187
+Telluride,200
+Tiguan,210
+Traverse,177
+Tucson,174
+X3,183
+X5,201
+
+Top 10 expensive parts
+part_name,category,car_model,price
+Clutch Kit,Body,Sportage,999.94
+Strut Assembly,Engine,RAV4,999.83
+Ball Joint,Transmission,Silverado,999.64
+Heater Core,Engine,Civic,999.62
+Ball Joint,Engine,Tucson,999.48
+Strut Assembly,Engine,Atlas,999.46
+Power Steering Pump,Body,Telluride,999.38
+Serpentine Belt,Suspension,C-Class,999.33
+Brake Rotor,Electrical,Corolla,999.29
+CV Axle,Exhaust,Maxima,999.28
+
+Top 10 parts with the lowest stock
+part_name,quantity,category,car_model,price
+Mass Air Flow Sensor,1,Electrical,Corolla,93.6
+Exhaust Muffler,1,Engine,Tacoma,427.96
+Coolant Hose,1,Cooling,Fit,602.63
+Shock Absorbers,1,Suspension,7 Series,931.98
+Windshield Wiper Motor,1,Body,Sorento,946.07
+Power Steering Pump,1,Electrical,Camry,717.34
+Ball Joint,1,Electrical,Civic,420.19
+Thermostat,1,Engine,F-150,49.1
+Coolant Hose,1,Exhaust,Telluride,702.74
+Clutch Kit,1,Brakes,Corolla,937.14
+
